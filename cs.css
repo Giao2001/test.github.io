@@ -1,0 +1,48 @@
+
+
+
+
+article  {
+    width: 210px;
+    height: 230px;
+    border-right: 1px solid #dedede;
+    padding-right: 15px;
+    float: left;
+}
+
+article a {
+    font-weight: bold;
+    font-size: 15px;
+    font-family: SFD-Semibold;
+    color: #2d2d2d;
+    text-decoration: none;
+    line-height: 18px;
+    display: block;
+    
+}
+
+article.left {
+    padding-left: 40px;
+
+}
+article.center {
+    padding-left: 15px;
+}
+
+div.top {
+    padding-top: 230px;
+    border-top: 1px solid #dedede;
+}
+
+a:hover {
+    color: aqua;
+    font-size: 16px;
+}
+section {
+    width: 800px;
+ 
+}
+a img {
+
+    height: 130px;
+}
